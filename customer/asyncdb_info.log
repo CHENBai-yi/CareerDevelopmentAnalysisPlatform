@@ -1,0 +1,659 @@
+Sun 26 Nov 2023 16:44:54 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152195202' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:55 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152192297' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:55 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151800279' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:56 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152163489' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:56 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152170263' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:56 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145633319' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:57 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150092351' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:57 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '137260696' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:58 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149432624' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:58 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151750482' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:59 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152169169' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:44:59 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152080309' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:00 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146670356' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:01 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152164172' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:01 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152183236' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:01 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148762385' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:02 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '131003794' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:02 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151741122' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:03 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152183235' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:03 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152142951' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:04 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149362302' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:04 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152110580' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:05 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152183237' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:05 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152060261' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:05 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152150989' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:06 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152005157' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:06 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146783205' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:07 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '134059360' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:07 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150984138' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:07 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151421344' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:08 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '127799751' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:08 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138323978' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151316916' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152031155' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '139211220' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:10 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138241168' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:10 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150614169' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150613767' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '133192340' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '96037727' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:12 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150455758' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:12 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150972680' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152058367' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '144780441' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150256035' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:14 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152015962' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:14 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151320594' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151940814' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:15 asyncdb.py INFO 插入一条数据: 151719705
+Sun 26 Nov 2023 16:45:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152191181' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149915822' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149738863' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151938840' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:17 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150768882' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:17 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145523031' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:18 asyncdb.py INFO 插入一条数据: 151217546
+Sun 26 Nov 2023 16:45:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149757497' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150046618' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151242646' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:19 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '136987540' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:19 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152201942' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '142902071' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152140100' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151902067' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151202393' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152191980' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:22 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151731850' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:22 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141582454' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147137019' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '98661382' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145197098' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151261285' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152159364' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:25 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151693750' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:25 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145640824' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150607079' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152133244' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:27 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '139789234' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:27 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148153304' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:28 asyncdb.py INFO 插入一条数据: 151848156
+Sun 26 Nov 2023 16:45:28 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151659845' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:28 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152130986' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:28 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152143022' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:29 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150161370' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:29 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '143108729' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150959533' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152143021' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:31 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149449118' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:31 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146217565' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151208659' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '135539943' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152168416' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151690202' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151610042' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147267424' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152172635' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:35 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151586592' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:35 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151320029' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:36 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150139202' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:36 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152067159' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:37 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151157999' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:47 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150250076' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:48 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151226271' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:48 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152036845' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:48 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149664977' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:49 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150387603' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:49 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151568714' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:50 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152163491' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:50 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '124565436' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:51 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151868437' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:51 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151172265' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:52 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152103445' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:52 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '128122944' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:53 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150553901' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:53 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152031600' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:53 asyncdb.py INFO 插入一条数据: 137506508
+Sun 26 Nov 2023 16:45:53 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152145869' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:54 asyncdb.py ERROR MySQL Error: (1205, 'Lock wait timeout exceeded; try restarting transaction')
+Sun 26 Nov 2023 16:45:54 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138451442' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:54 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147294125' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:55 asyncdb.py INFO 插入一条数据: 139387458
+Sun 26 Nov 2023 16:45:55 asyncdb.py INFO 插入一条数据: 149101119
+Sun 26 Nov 2023 16:45:55 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152202082' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:55 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149599476' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:56 asyncdb.py INFO 插入一条数据: 137783278
+Sun 26 Nov 2023 16:45:56 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145320195' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:56 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '140851785' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:57 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '125921275' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:57 asyncdb.py ERROR MySQL Error: (1205, 'Lock wait timeout exceeded; try restarting transaction')
+Sun 26 Nov 2023 16:45:57 asyncdb.py INFO 插入一条数据: 136959412
+Sun 26 Nov 2023 16:45:57 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152105121' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:58 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152116134' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:58 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151980135' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:59 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149313550' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:45:59 asyncdb.py INFO 插入一条数据: 142082973
+Sun 26 Nov 2023 16:45:59 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '99540994' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:00 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146429240' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:00 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '126845947' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:01 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151985695' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:01 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152129600' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:02 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '129131738' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:02 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '143198916' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:03 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '88488045' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:03 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152038500' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:03 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '126689045' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:04 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '126549095' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:04 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150687099' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:05 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '134578552' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:06 asyncdb.py INFO 插入一条数据: 151133124
+Sun 26 Nov 2023 16:46:06 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151113533' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:06 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150832755' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:06 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '128410419' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:07 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151383985' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:07 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '128421358' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:08 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '130678824' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:08 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151847925' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150645626' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150631194' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:10 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '121335646' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:10 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151749088' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146706445' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152094439' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:12 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148481708' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:12 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151654512' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141401957' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152094440' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149317449' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:14 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152113644' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:14 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148733434' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152082959' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '144809923' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150857265' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150192498' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150331293' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:17 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146447472' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:17 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151954441' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148733803' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151675936' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149201882' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:19 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152083895' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:19 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149984526' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151584212' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152096467' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152105679' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152045996' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147678514' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:22 asyncdb.py INFO 插入一条数据: 151566749
+Sun 26 Nov 2023 16:46:22 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151980737' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:22 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138515918' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:23 asyncdb.py INFO 插入一条数据: 152096703
+Sun 26 Nov 2023 16:46:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145743492' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152015901' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '144262074' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:24 asyncdb.py INFO 插入一条数据: 152096704
+Sun 26 Nov 2023 16:46:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151948534' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150045879' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:25 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '135874359' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:25 asyncdb.py INFO 插入一条数据: 152096700
+Sun 26 Nov 2023 16:46:25 asyncdb.py INFO 插入一条数据: 152009885
+Sun 26 Nov 2023 16:46:25 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150336324' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138546581' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:26 asyncdb.py INFO 插入一条数据: 152096702
+Sun 26 Nov 2023 16:46:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '132911975' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:27 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146689481' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:27 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152054069' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:27 asyncdb.py INFO 插入一条数据: 152096701
+Sun 26 Nov 2023 16:46:27 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146025065' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:28 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149512379' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:28 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '139499783' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:29 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '128780854' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:29 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150622101' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '121721127' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '140177460' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150073592' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:31 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150158754' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:31 asyncdb.py INFO 插入一条数据: 150204109
+Sun 26 Nov 2023 16:46:31 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152185511' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152191496' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147132488' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152198244' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149833452' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151983591' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151749545' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141291105' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:35 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151867086' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:35 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150679472' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:35 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151601836' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:36 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151844537' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:37 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150109991' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:37 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151814283' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:37 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '126664186' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:38 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146650592' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:38 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149572118' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:39 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151560059' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:39 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149798787' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:40 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '94308196' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:40 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145293533' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:41 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151662277' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:42 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150276899' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:42 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150611943' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:43 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149904326' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:43 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151662276' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:44 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149060295' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:44 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149488787' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:45 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150678752' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:45 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '131107412' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:46 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149285787' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:46 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150784151' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:47 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145344178' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:48 asyncdb.py INFO 插入一条数据: 150436195
+Sun 26 Nov 2023 16:46:48 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149489382' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:48 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152152558' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:50 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151023082' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:52 asyncdb.py INFO 插入一条数据: 151980866
+Sun 26 Nov 2023 16:46:52 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149488965' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:53 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151803228' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:53 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151664899' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:53 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '142139777' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:54 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149060468' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:54 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141881520' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:55 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151587875' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:55 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151575896' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:56 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149060008' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:56 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149856879' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:57 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149912499' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:57 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145489909' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:57 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149489540' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:58 asyncdb.py INFO 插入一条数据: 146235520
+Sun 26 Nov 2023 16:46:58 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151526899' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:58 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151374058' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:59 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150276896' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:46:59 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151417550' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:00 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146507884' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:00 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151404962' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:01 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148894666' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:01 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '129632010' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:02 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146565455' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:02 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '134239085' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:02 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151124937' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:03 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151303667' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:03 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146565456' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:04 asyncdb.py INFO 插入一条数据: 148994224
+Sun 26 Nov 2023 16:47:04 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150389307' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:04 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146170094' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:04 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145372727' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:05 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148992709' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:05 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151825087' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:06 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152016148' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:06 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151983653' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:06 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151759318' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:07 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146556985' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:07 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '95642197' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:08 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150520342' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:08 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151740344' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147616459' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151710783' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149111637' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:10 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '130723070' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:10 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149751970' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152138204' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147715217' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141872662' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:12 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146095921' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:12 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146095921' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:12 asyncdb.py ERROR Deadlock found. Retrying...
+Sun 26 Nov 2023 16:47:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151974827' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147177076' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '61553583' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:14 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138011901' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:14 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '124178243' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '143105320' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:15 asyncdb.py INFO 插入一条数据: 139880448
+Sun 26 Nov 2023 16:47:15 asyncdb.py INFO 插入一条数据: 151453446
+Sun 26 Nov 2023 16:47:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152110204' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150189207' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152094437' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '131129227' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:17 asyncdb.py INFO 插入一条数据: 151045679
+Sun 26 Nov 2023 16:47:17 asyncdb.py INFO 插入一条数据: 140809764
+Sun 26 Nov 2023 16:47:17 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '136120541' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:17 asyncdb.py INFO 插入一条数据: 137769210
+Sun 26 Nov 2023 16:47:17 asyncdb.py INFO 插入一条数据: 151649094
+Sun 26 Nov 2023 16:47:17 asyncdb.py INFO 插入一条数据: 151906165
+Sun 26 Nov 2023 16:47:17 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '135675150' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:18 asyncdb.py INFO 插入一条数据: 152122618
+Sun 26 Nov 2023 16:47:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149115842' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:18 asyncdb.py INFO 插入一条数据: 150925365
+Sun 26 Nov 2023 16:47:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138967667' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151860078' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:19 asyncdb.py INFO 插入一条数据: 148718999
+Sun 26 Nov 2023 16:47:19 asyncdb.py INFO 插入一条数据: 150300669
+Sun 26 Nov 2023 16:47:19 asyncdb.py INFO 插入一条数据: 152017641
+Sun 26 Nov 2023 16:47:19 asyncdb.py INFO 插入一条数据: 151729625
+Sun 26 Nov 2023 16:47:19 asyncdb.py INFO 插入一条数据: 150665824
+Sun 26 Nov 2023 16:47:19 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '127683588' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:20 asyncdb.py INFO 插入一条数据: 130164245
+Sun 26 Nov 2023 16:47:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '105209907' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:20 asyncdb.py INFO 插入一条数据: 85728243
+Sun 26 Nov 2023 16:47:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '130300801' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:20 asyncdb.py INFO 插入一条数据: 152124250
+Sun 26 Nov 2023 16:47:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151661560' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152152603' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146033786' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:22 asyncdb.py INFO 插入一条数据: 152124251
+Sun 26 Nov 2023 16:47:22 asyncdb.py INFO 插入一条数据: 132257825
+Sun 26 Nov 2023 16:47:22 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151719705' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:22 asyncdb.py INFO 插入一条数据: 144681136
+Sun 26 Nov 2023 16:47:22 asyncdb.py INFO 插入一条数据: 147100592
+Sun 26 Nov 2023 16:47:22 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152153307' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150734517' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO 插入一条数据: 132944606
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '122526621' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO 插入一条数据: 148894167
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO 插入一条数据: 150539803
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO 插入一条数据: 149775593
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO 插入一条数据: 151651561
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO 插入一条数据: 151588427
+Sun 26 Nov 2023 16:47:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149128863' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:24 asyncdb.py INFO 插入一条数据: 149775592
+Sun 26 Nov 2023 16:47:24 asyncdb.py INFO 插入一条数据: 151651265
+Sun 26 Nov 2023 16:47:24 asyncdb.py INFO 插入一条数据: 149718360
+Sun 26 Nov 2023 16:47:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149254329' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:24 asyncdb.py INFO 插入一条数据: 136866074
+Sun 26 Nov 2023 16:47:24 asyncdb.py INFO 插入一条数据: 151651268
+Sun 26 Nov 2023 16:47:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148547973' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:25 asyncdb.py INFO 插入一条数据: 79010321
+Sun 26 Nov 2023 16:47:25 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150127553' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:25 asyncdb.py INFO 插入一条数据: 151651264
+Sun 26 Nov 2023 16:47:25 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '45978867' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 152103449
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 133976178
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151651266
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 146130820
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 145864880
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 138484831
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151651263
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '145216974' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 149426191
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 145775255
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151651270
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 123347827
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 147076397
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151355017
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151651267
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 143438955
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 138281346
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 149482856
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151651271
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 149805569
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 146644692
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 89518611
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151741284
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151914043
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 150355567
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151817368
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 137608905
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151914042
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 149229474
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151767560
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 108289492
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 151914041
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 139023636
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO 插入一条数据: 144655994
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152140100' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150845248' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:27 asyncdb.py INFO 插入一条数据: 151715043
+Sun 26 Nov 2023 16:47:27 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146386382' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:27 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151242745' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 150963144
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 130310523
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 140640539
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151848156' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 136672947
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 144632707
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 135800170
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 151856374
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 150422431
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 145880389
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO 插入一条数据: 151125501
+Sun 26 Nov 2023 16:47:28 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152179450' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 98587974
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 145593982
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 151520150
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 151150947
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 152150680
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 151510626
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 152208490
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '143891731' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 149711083
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 151505983
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 130493870
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 150942233
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 150815649
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 151568712
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO 插入一条数据: 149942857
+Sun 26 Nov 2023 16:47:29 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149216602' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:30 asyncdb.py INFO 插入一条数据: 151004448
+Sun 26 Nov 2023 16:47:30 asyncdb.py INFO 插入一条数据: 133170060
+Sun 26 Nov 2023 16:47:30 asyncdb.py INFO 插入一条数据: 150558679
+Sun 26 Nov 2023 16:47:30 asyncdb.py INFO 插入一条数据: 149724045
+Sun 26 Nov 2023 16:47:30 asyncdb.py INFO 插入一条数据: 150292155
+Sun 26 Nov 2023 16:47:30 asyncdb.py INFO 插入一条数据: 145905755
+Sun 26 Nov 2023 16:47:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152061607' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '133057243' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:31 asyncdb.py INFO 插入一条数据: 147952827
+Sun 26 Nov 2023 16:47:31 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '128752410' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:31 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '144676405' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '119687757' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151152115' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:33 asyncdb.py INFO 插入一条数据: 127599778
+Sun 26 Nov 2023 16:47:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148597465' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150163598' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:33 asyncdb.py INFO 插入一条数据: 139507262
+Sun 26 Nov 2023 16:47:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '139586372' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:34 asyncdb.py INFO 插入一条数据: 147610769
+Sun 26 Nov 2023 16:47:34 asyncdb.py INFO 插入一条数据: 149527436
+Sun 26 Nov 2023 16:47:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151217546' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141668989' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:35 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149636777' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:35 asyncdb.py INFO 插入一条数据: 151784223
+Sun 26 Nov 2023 16:47:35 asyncdb.py INFO 插入一条数据: 132643175
+Sun 26 Nov 2023 16:47:35 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149569518' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:36 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150425467' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:36 asyncdb.py INFO 插入一条数据: 151366501
+Sun 26 Nov 2023 16:47:36 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148594026' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:37 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152177175' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:37 asyncdb.py INFO 插入一条数据: 151985694
+Sun 26 Nov 2023 16:47:37 asyncdb.py INFO 插入一条数据: 149705114
+Sun 26 Nov 2023 16:47:37 asyncdb.py INFO 插入一条数据: 72273957
+Sun 26 Nov 2023 16:47:37 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '119654065' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '143352161' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO 插入一条数据: 127524973
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO 插入一条数据: 136430462
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO 插入一条数据: 146528446
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO 插入一条数据: 123192445
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO 插入一条数据: 152188786
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO 插入一条数据: 149343968
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO 插入一条数据: 108418886
+Sun 26 Nov 2023 16:47:38 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '139007307' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:39 asyncdb.py INFO 插入一条数据: 139995139
+Sun 26 Nov 2023 16:47:39 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149973675' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:39 asyncdb.py INFO 插入一条数据: 144406418
+Sun 26 Nov 2023 16:47:39 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141681512' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 145861832
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151814902
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 96048738
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151373989
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151997062
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151896223
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 150123183
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151374008
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 152058668
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151202393' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 140735296
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151373975
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151855231
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 137654659
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 146990822
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 149644104
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151014871
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 141960073
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151193308
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 130858391
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151014870
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 146954293
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 136747893
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151817692
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 131208946
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150161370' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 150956231
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 144650846
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 152162277
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 146954292
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 145223399
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 151884916
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO 插入一条数据: 145362774
+Sun 26 Nov 2023 16:47:40 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150718706' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:41 asyncdb.py INFO 插入一条数据: 151942000
+Sun 26 Nov 2023 16:47:41 asyncdb.py INFO 插入一条数据: 151501743
+Sun 26 Nov 2023 16:47:41 asyncdb.py INFO 插入一条数据: 151784987
+Sun 26 Nov 2023 16:47:41 asyncdb.py INFO 插入一条数据: 138207731
+Sun 26 Nov 2023 16:47:41 asyncdb.py INFO 插入一条数据: 144209912
+Sun 26 Nov 2023 16:47:41 asyncdb.py INFO 插入一条数据: 151657058
+Sun 26 Nov 2023 16:47:41 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '144157195' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:41 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152173741' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 151584618
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 151359455
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 151585515
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 151374068
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 152192206
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141882259' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 121352329
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 146941634
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 151532592
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 150474217
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 143759927
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 145883249
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 125514846
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 150474220
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 151810177
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 151435872
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 125515198
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO 插入一条数据: 150474221
+Sun 26 Nov 2023 16:47:42 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141336761' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO 插入一条数据: 147205004
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '125551339' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO 插入一条数据: 150474218
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO 插入一条数据: 141386877
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO 插入一条数据: 150422453
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO 插入一条数据: 148052975
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO 插入一条数据: 150474219
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '141386878' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:43 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150422452' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:44 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151462177' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:44 asyncdb.py INFO 插入一条数据: 145286763
+Sun 26 Nov 2023 16:47:44 asyncdb.py INFO 插入一条数据: 130461637
+Sun 26 Nov 2023 16:47:44 asyncdb.py INFO 插入一条数据: 136627541
+Sun 26 Nov 2023 16:47:44 asyncdb.py INFO 插入一条数据: 121553764
+Sun 26 Nov 2023 16:47:44 asyncdb.py INFO 插入一条数据: 139126993
+Sun 26 Nov 2023 16:47:44 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '131184912' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:45 asyncdb.py INFO 插入一条数据: 151609182
+Sun 26 Nov 2023 16:47:45 asyncdb.py INFO 插入一条数据: 134524592
+Sun 26 Nov 2023 16:47:45 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150521604' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:45 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '136837154' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:46 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152202340' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:46 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150633950' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:46 asyncdb.py INFO 插入一条数据: 126095176
+Sun 26 Nov 2023 16:47:46 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '140807188' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:47 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147638736' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:47 asyncdb.py INFO 插入一条数据: 143082168
+Sun 26 Nov 2023 16:47:47 asyncdb.py INFO 插入一条数据: 132655475
+Sun 26 Nov 2023 16:47:47 asyncdb.py INFO 插入一条数据: 128689892
+Sun 26 Nov 2023 16:47:47 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148658521' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:48 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '135206670' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:48 asyncdb.py INFO 插入一条数据: 146874519
+Sun 26 Nov 2023 16:47:48 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '139987006' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:49 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147955861' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:49 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149578962' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:49 asyncdb.py INFO 插入一条数据: 114464760
+Sun 26 Nov 2023 16:47:49 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '134046378' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:50 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '67006943' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:50 asyncdb.py INFO 插入一条数据: 152130152
+Sun 26 Nov 2023 16:47:50 asyncdb.py INFO 插入一条数据: 149745138
+Sun 26 Nov 2023 16:47:50 asyncdb.py INFO 插入一条数据: 151424910
+Sun 26 Nov 2023 16:47:50 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '137506508' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO 插入一条数据: 147229515
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO 插入一条数据: 143017449
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO 插入一条数据: 145254280
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO 插入一条数据: 151128582
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO 插入一条数据: 149107608
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO 插入一条数据: 147068220
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO 插入一条数据: 150192030
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149101119' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:51 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '139387458' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO 插入一条数据: 142201058
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO 插入一条数据: 150801581
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO 插入一条数据: 115404852
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO 插入一条数据: 151062349
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO 插入一条数据: 141174181
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '137783278' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151676733' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO 插入一条数据: 151043506
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO 插入一条数据: 143577116
+Sun 26 Nov 2023 16:47:52 asyncdb.py INFO 插入一条数据: 142199838
+Sun 26 Nov 2023 16:48:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146095921' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:09 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147177076' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:10 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151974827' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:10 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '61553583' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138011901' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:11 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '124178243' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:12 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '143105320' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:12 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '139880448' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151453446' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152110204' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:13 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152094437' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:14 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150189207' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:14 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '131129227' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151045679' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:15 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '140809764' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '136120541' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '137769210' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:16 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151649094' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:17 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151906165' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:17 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '135675150' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152122618' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:18 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149115842' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:19 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150925365' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:19 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148718999' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150300669' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:20 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '138967667' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151860078' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152017641' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:21 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150665824' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:22 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151729625' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:22 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '105209907' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '127683588' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '130164245' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:23 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '85728243' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152124250' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:24 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '130300801' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:25 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151661560' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:25 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152152603' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152124251' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '146033786' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:26 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151719705' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:29 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '144681136' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '132257825' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:30 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '147100592' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:31 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '152153307' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:31 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150734517' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '132944606' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '122526621' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:32 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '148894167' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '150539803' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:33 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151651561' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151588427' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149775593' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:34 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '151651268' for key 'details.PRIMARY'"), 执行数据库更新逻辑
+Sun 26 Nov 2023 16:48:35 asyncdb.py INFO Integrity Error: (1062, "Duplicate entry '149718360' for key 'details.PRIMARY'"), 执行数据库更新逻辑
