@@ -12,7 +12,6 @@ import com.example.chart.domain.mapper.DetailsToTableDto;
 import com.example.chart.domain.pojo.Details;
 import com.example.chart.domain.vo.ChartVo;
 import com.example.chart.service.DetailsService;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ruoyi.common.utils.DateUtils;
 import com.ruoyi.common.utils.StringUtils;
 import com.ruoyi.common.utils.bean.BeanUtils;
@@ -211,10 +210,15 @@ public class DetailsServiceImpl extends ServiceImpl<DetailsDao, Details> impleme
             }
 
             return DetailsToTableDto.DETAILS_TO_TABLE_DTO.getTableDtos(item.getRecords().stream().map(i -> {
-                if (StringUtils.isEmpty(i.getHrlabels())) {
+                if (StringUtils.isBlank(i.getHrlabels())) {
                     i.setHrlabels("未知");
                 } else {
-                    i.setHrlabels(JSONObject.parseObject(i.getHrlabels(), List.class).stream().collect(Collectors.joining(", ")) + "");
+                    final List<String> parseObject = (ArrayList<String>) JSONObject.parseObject(i.getHrlabels(), List.class);
+                    if (parseObject.isEmpty()) {
+                        i.setHrlabels("暂无");
+                    } else {
+                        i.setHrlabels(String.join(", ", parseObject));
+                    }
                 }
                 return i;
             }).collect(Collectors.toList()));
