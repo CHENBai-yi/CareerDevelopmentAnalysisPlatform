@@ -4,7 +4,6 @@
 后端python爬取数据库存储，java调用数据并返回给前端用可视化大数据分析模板通过websocket展示。
 
 #### 软件架构
-软件架构说明
 flask+websocket+pymysql+springboot+echart
 
 #### 前端
