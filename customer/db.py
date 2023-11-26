@@ -5,7 +5,7 @@ import json
 import pymysql
 
 # Replace with your database connection details
-connection = pymysql.connect(host='localhost', port=3306, user='root', password='password', database='51job',
+connection = pymysql.connect(host='localhost', port=3306, user='root', password='74521CBy', database='51job',
                              charset="utf8")
 cursor = connection.cursor()
 

@@ -11,7 +11,7 @@ from asyncdb import CustomLogger  # Import the Database class for creating new i
 from asyncdb import Database  # Import the Database class for creating new instances
 from asyncdb import thread_local_db  # Import the thread-local Database instance
 
-Logger = CustomLogger(name="asyncApi", log_file="../customer/api.log", log_level=logging.DEBUG,
+Logger = CustomLogger(name="asyncApi", log_file="async/api.log", log_level=logging.DEBUG,
                       log_format='%(asctime)s %(filename)s %(levelname)s %(message)s', datefmt='%a %d %b %Y %H:%M:%S')
 
 
@@ -105,7 +105,7 @@ def init(keyword):
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("--headless")
     chrome = webdriver.Chrome(options=options)
-    with open('../static/stealth.min.js') as f:
+    with open('static/stealth.min.js') as f:
         js = f.read()
         chrome.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
             "source": js

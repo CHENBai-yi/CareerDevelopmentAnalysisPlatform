@@ -13,7 +13,7 @@ class Database:
         self.cursor = None
 
     def connect(self):
-        self.connection = pymysql.connect(host='localhost', port=3306, user='root', password='password',
+        self.connection = pymysql.connect(host='localhost', port=3306, user='root', password='74521CBy',
                                           database='51job', charset="utf8")
         self.cursor = self.connection.cursor()
         self.cursor.execute("SET TRANSACTION ISOLATION LEVEL READ COMMITTED")
@@ -225,12 +225,12 @@ class CustomLogger:
         self.logger = logging.getLogger(name)
         self.logger.setLevel(log_level)
         formatter = logging.Formatter(log_format, datefmt)
-        file_handler = logging.FileHandler(log_file, mode='w')
+        file_handler = logging.FileHandler(log_file)
         file_handler.setFormatter(formatter)
         self.logger.addHandler(file_handler)
 
 
-Logger = CustomLogger(name="asyncdb", log_file="asyncdb.log", log_level=logging.ERROR,
+Logger = CustomLogger(name="asyncdb", log_file="async/asyncdb.log", log_level=logging.ERROR,
                       log_format='%(asctime)s %(filename)s %(levelname)s %(message)s', datefmt='%a %d %b %Y %H:%M:%S')
-Logger2 = CustomLogger(name="asyncdb", log_file="../customer/asyncdb_info.log", log_level=logging.INFO,
+Logger2 = CustomLogger(name="asyncdb", log_file="async/asyncdb_info.log", log_level=logging.INFO,
                        log_format='%(asctime)s %(filename)s %(levelname)s %(message)s', datefmt='%a %d %b %Y %H:%M:%S')
