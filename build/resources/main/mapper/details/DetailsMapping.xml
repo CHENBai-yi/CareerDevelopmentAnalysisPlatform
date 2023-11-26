@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.chart.dao.DetailsDao">
+    
+    <resultMap type="com.example.chart.domain.pojo.Details" id="DetailsMap">
+        <result property="jobid" column="jobId" jdbcType="VARCHAR"/>
+        <result property="jobtype" column="jobType" jdbcType="VARCHAR"/>
+        <result property="jobname" column="jobName" jdbcType="VARCHAR"/>
+        <result property="jobtags" column="jobTags" jdbcType="VARCHAR"/>
+        <result property="jobnumstring" column="jobNumString" jdbcType="VARCHAR"/>
+        <result property="workareacode" column="workAreaCode" jdbcType="VARCHAR"/>
+        <result property="jobareacode" column="jobAreaCode" jdbcType="VARCHAR"/>
+        <result property="jobareastring" column="jobAreaString" jdbcType="VARCHAR"/>
+        <result property="hrefareapinyin" column="hrefAreaPinYin" jdbcType="VARCHAR"/>
+        <result property="jobarealeveldetail" column="jobAreaLevelDetail" jdbcType="VARCHAR"/>
+        <result property="providesalarystring" column="provideSalaryString" jdbcType="VARCHAR"/>
+        <result property="issuedatestring" column="issueDateString" jdbcType="TIMESTAMP"/>
+        <result property="confirmdatestring" column="confirmDateString" jdbcType="TIMESTAMP"/>
+        <result property="workyear" column="workYear" jdbcType="VARCHAR"/>
+        <result property="workyearstring" column="workYearString" jdbcType="VARCHAR"/>
+        <result property="degreestring" column="degreeString" jdbcType="VARCHAR"/>
+        <result property="industrytype1" column="industryType1" jdbcType="VARCHAR"/>
+        <result property="industrytype2" column="industryType2" jdbcType="VARCHAR"/>
+        <result property="industrytype1str" column="industryType1Str" jdbcType="VARCHAR"/>
+        <result property="industrytype2str" column="industryType2Str" jdbcType="VARCHAR"/>
+        <result property="functype1code" column="funcType1Code" jdbcType="VARCHAR"/>
+        <result property="functype2code" column="funcType2Code" jdbcType="VARCHAR"/>
+        <result property="major1str" column="major1Str" jdbcType="VARCHAR"/>
+        <result property="major2str" column="major2Str" jdbcType="VARCHAR"/>
+        <result property="enccoid" column="encCoId" jdbcType="VARCHAR"/>
+        <result property="companyname" column="companyName" jdbcType="VARCHAR"/>
+        <result property="fullcompanyname" column="fullCompanyName" jdbcType="VARCHAR"/>
+        <result property="companylogo" column="companyLogo" jdbcType="VARCHAR"/>
+        <result property="companytypestring" column="companyTypeString" jdbcType="VARCHAR"/>
+        <result property="companysizestring" column="companySizeString" jdbcType="VARCHAR"/>
+        <result property="companysizecode" column="companySizeCode" jdbcType="VARCHAR"/>
+        <result property="hruid" column="hrUid" jdbcType="VARCHAR"/>
+        <result property="hrname" column="hrName" jdbcType="VARCHAR"/>
+        <result property="smallhrlogourl" column="smallHrLogoUrl" jdbcType="VARCHAR"/>
+        <result property="hrposition" column="hrPosition" jdbcType="VARCHAR"/>
+        <result property="hractivestatusgreen" column="hrActiveStatusGreen" jdbcType="VARCHAR"/>
+        <result property="hrmedaltitle" column="hrMedalTitle" jdbcType="VARCHAR"/>
+        <result property="hrmedallevel" column="hrMedalLevel" jdbcType="VARCHAR"/>
+        <result property="showhrmedaltitle" column="showHrMedalTitle" jdbcType="INTEGER"/>
+        <result property="hrisonline" column="hrIsOnline" jdbcType="INTEGER"/>
+        <result property="hrlabels" column="hrLabels" jdbcType="VARCHAR"/>
+        <result property="updatedatetime" column="updateDateTime" jdbcType="TIMESTAMP"/>
+        <result property="lon" column="lon" jdbcType="VARCHAR"/>
+        <result property="lat" column="lat" jdbcType="VARCHAR"/>
+        <result property="iscommunicate" column="isCommunicate" jdbcType="INTEGER"/>
+        <result property="isfromxyx" column="isFromXyx" jdbcType="INTEGER"/>
+        <result property="isintern" column="isIntern" jdbcType="INTEGER"/>
+        <result property="ismodelemployer" column="isModelEmployer" jdbcType="INTEGER"/>
+        <result property="isquickfeedback" column="isQuickFeedback" jdbcType="INTEGER"/>
+        <result property="ispromotion" column="isPromotion" jdbcType="INTEGER"/>
+        <result property="isapply" column="isApply" jdbcType="INTEGER"/>
+        <result property="isexpire" column="isExpire" jdbcType="INTEGER"/>
+        <result property="jobhref" column="jobHref" jdbcType="VARCHAR"/>
+        <result property="companyhref" column="companyHref" jdbcType="VARCHAR"/>
+        <result property="allowchatonline" column="allowChatOnline" jdbcType="INTEGER"/>
+        <result property="ctmid" column="ctmId" jdbcType="INTEGER"/>
+        <result property="term" column="term" jdbcType="VARCHAR"/>
+        <result property="termstr" column="termStr" jdbcType="VARCHAR"/>
+        <result property="landmarkid" column="landmarkId" jdbcType="VARCHAR"/>
+        <result property="landmarkstring" column="landmarkString" jdbcType="VARCHAR"/>
+        <result property="retrievername" column="retrieverName" jdbcType="VARCHAR"/>
+        <result property="exrinfo02" column="exrInfo02" jdbcType="VARCHAR"/>
+        <result property="hrinfotype" column="hrInfoType" jdbcType="INTEGER"/>
+        <result property="jobscheme" column="jobScheme" jdbcType="VARCHAR"/>
+        <result property="coid" column="coId" jdbcType="VARCHAR"/>
+    </resultMap>
+    
+    <!-- 批量插入 -->
+    
+    <insert id="insertBatch" keyProperty="jobid" useGeneratedKeys="true">
+        insert into 51job.details(jobType, jobName, jobTags, jobNumString, workAreaCode, jobAreaCode, jobAreaString,
+        hrefAreaPinYin, jobAreaLevelDetail, provideSalaryString, issueDateString, confirmDateString, workYear,
+        workYearString, degreeString, industryType1, industryType2, industryType1Str, industryType2Str, funcType1Code,
+        funcType2Code, major1Str, major2Str, encCoId, companyName, fullCompanyName, companyLogo, companyTypeString,
+        companySizeString, companySizeCode, hrUid, hrName, smallHrLogoUrl, hrPosition, hrActiveStatusGreen,
+        hrMedalTitle, hrMedalLevel, showHrMedalTitle, hrIsOnline, hrLabels, updateDateTime, lon, lat, isCommunicate,
+        isFromXyx, isIntern, isModelEmployer, isQuickFeedback, isPromotion, isApply, isExpire, jobHref, companyHref,
+        allowChatOnline, ctmId, term, termStr, landmarkId, landmarkString, retrieverName, exrInfo02, hrInfoType,
+        jobScheme, coId)
+        values
+        <foreach collection="entities" item="entity" separator=",">
+            (#{entity.jobtype}, #{entity.jobname}, #{entity.jobtags}, #{entity.jobnumstring}, #{entity.workareacode},
+            #{entity.jobareacode}, #{entity.jobareastring}, #{entity.hrefareapinyin}, #{entity.jobarealeveldetail},
+            #{entity.providesalarystring}, #{entity.issuedatestring}, #{entity.confirmdatestring}, #{entity.workyear},
+            #{entity.workyearstring}, #{entity.degreestring}, #{entity.industrytype1}, #{entity.industrytype2},
+            #{entity.industrytype1str}, #{entity.industrytype2str}, #{entity.functype1code}, #{entity.functype2code},
+            #{entity.major1str}, #{entity.major2str}, #{entity.enccoid}, #{entity.companyname},
+            #{entity.fullcompanyname}, #{entity.companylogo}, #{entity.companytypestring}, #{entity.companysizestring},
+            #{entity.companysizecode}, #{entity.hruid}, #{entity.hrname}, #{entity.smallhrlogourl},
+            #{entity.hrposition}, #{entity.hractivestatusgreen}, #{entity.hrmedaltitle}, #{entity.hrmedallevel},
+            #{entity.showhrmedaltitle}, #{entity.hrisonline}, #{entity.hrlabels}, #{entity.updatedatetime},
+            #{entity.lon}, #{entity.lat}, #{entity.iscommunicate}, #{entity.isfromxyx}, #{entity.isintern},
+            #{entity.ismodelemployer}, #{entity.isquickfeedback}, #{entity.ispromotion}, #{entity.isapply},
+            #{entity.isexpire}, #{entity.jobhref}, #{entity.companyhref}, #{entity.allowchatonline}, #{entity.ctmid},
+            #{entity.term}, #{entity.termstr}, #{entity.landmarkid}, #{entity.landmarkstring}, #{entity.retrievername},
+            #{entity.exrinfo02}, #{entity.hrinfotype}, #{entity.jobscheme}, #{entity.coid})
+        </foreach>
+    </insert>
+    
+    <!--查询指定行数据-->
+    <select id="selectDetailsList" resultMap="DetailsMap">
+        select
+        jobId, jobType, jobName, jobTags, jobNumString, workAreaCode, jobAreaCode, jobAreaString, hrefAreaPinYin,
+        jobAreaLevelDetail, provideSalaryString, issueDateString, confirmDateString, workYear, workYearString,
+        degreeString, industryType1, industryType2, industryType1Str, industryType2Str, funcType1Code, funcType2Code,
+        major1Str, major2Str, encCoId, companyName, fullCompanyName, companyLogo, companyTypeString, companySizeString,
+        companySizeCode, hrUid, hrName, smallHrLogoUrl, hrPosition, hrActiveStatusGreen, hrMedalTitle, hrMedalLevel,
+        showHrMedalTitle, hrIsOnline, hrLabels, updateDateTime, lon, lat, isCommunicate, isFromXyx, isIntern,
+        isModelEmployer, isQuickFeedback, isPromotion, isApply, isExpire, jobHref, companyHref, allowChatOnline, ctmId,
+        term, termStr, landmarkId, landmarkString, retrieverName, exrInfo02, hrInfoType, jobScheme, coId
+        from details
+        <where>
+            <if test="jobid != null and jobid != ''">
+                and jobId = #{jobid}
+            </if>
+            <if test="jobtype != null and jobtype != ''">
+                and jobType = #{jobtype}
+            </if>
+            <if test="jobname != null and jobname != ''">
+                and jobName = #{jobname}
+            </if>
+            <if test="jobtags != null and jobtags != ''">
+                and jobTags = #{jobtags}
+            </if>
+            <if test="jobnumstring != null and jobnumstring != ''">
+                and jobNumString = #{jobnumstring}
+            </if>
+            <if test="workareacode != null and workareacode != ''">
+                and workAreaCode = #{workareacode}
+            </if>
+            <if test="jobareacode != null and jobareacode != ''">
+                and jobAreaCode = #{jobareacode}
+            </if>
+            <if test="jobareastring != null and jobareastring != ''">
+                and jobAreaString = #{jobareastring}
+            </if>
+            <if test="hrefareapinyin != null and hrefareapinyin != ''">
+                and hrefAreaPinYin = #{hrefareapinyin}
+            </if>
+            <if test="jobarealeveldetail != null and jobarealeveldetail != ''">
+                and jobAreaLevelDetail = #{jobarealeveldetail}
+            </if>
+            <if test="providesalarystring != null and providesalarystring != ''">
+                and provideSalaryString = #{providesalarystring}
+            </if>
+            <if test="issuedatestring != null">
+                and issueDateString = #{issuedatestring}
+            </if>
+            <if test="confirmdatestring != null">
+                and confirmDateString = #{confirmdatestring}
+            </if>
+            <if test="workyear != null and workyear != ''">
+                and workYear = #{workyear}
+            </if>
+            <if test="workyearstring != null and workyearstring != ''">
+                and workYearString = #{workyearstring}
+            </if>
+            <if test="degreestring != null and degreestring != ''">
+                and degreeString = #{degreestring}
+            </if>
+            <if test="industrytype1 != null and industrytype1 != ''">
+                and industryType1 = #{industrytype1}
+            </if>
+            <if test="industrytype2 != null and industrytype2 != ''">
+                and industryType2 = #{industrytype2}
+            </if>
+            <if test="industrytype1str != null and industrytype1str != ''">
+                and industryType1Str = #{industrytype1str}
+            </if>
+            <if test="industrytype2str != null and industrytype2str != ''">
+                and industryType2Str = #{industrytype2str}
+            </if>
+            <if test="functype1code != null and functype1code != ''">
+                and funcType1Code = #{functype1code}
+            </if>
+            <if test="functype2code != null and functype2code != ''">
+                and funcType2Code = #{functype2code}
+            </if>
+            <if test="major1str != null and major1str != ''">
+                and major1Str = #{major1str}
+            </if>
+            <if test="major2str != null and major2str != ''">
+                and major2Str = #{major2str}
+            </if>
+            <if test="enccoid != null and enccoid != ''">
+                and encCoId = #{enccoid}
+            </if>
+            <if test="companyname != null and companyname != ''">
+                and companyName = #{companyname}
+            </if>
+            <if test="fullcompanyname != null and fullcompanyname != ''">
+                and fullCompanyName = #{fullcompanyname}
+            </if>
+            <if test="companylogo != null and companylogo != ''">
+                and companyLogo = #{companylogo}
+            </if>
+            <if test="companytypestring != null and companytypestring != ''">
+                and companyTypeString = #{companytypestring}
+            </if>
+            <if test="companysizestring != null and companysizestring != ''">
+                and companySizeString = #{companysizestring}
+            </if>
+            <if test="companysizecode != null and companysizecode != ''">
+                and companySizeCode = #{companysizecode}
+            </if>
+            <if test="hruid != null and hruid != ''">
+                and hrUid = #{hruid}
+            </if>
+            <if test="hrname != null and hrname != ''">
+                and hrName = #{hrname}
+            </if>
+            <if test="smallhrlogourl != null and smallhrlogourl != ''">
+                and smallHrLogoUrl = #{smallhrlogourl}
+            </if>
+            <if test="hrposition != null and hrposition != ''">
+                and hrPosition = #{hrposition}
+            </if>
+            <if test="hractivestatusgreen != null and hractivestatusgreen != ''">
+                and hrActiveStatusGreen = #{hractivestatusgreen}
+            </if>
+            <if test="hrmedaltitle != null and hrmedaltitle != ''">
+                and hrMedalTitle = #{hrmedaltitle}
+            </if>
+            <if test="hrmedallevel != null and hrmedallevel != ''">
+                and hrMedalLevel = #{hrmedallevel}
+            </if>
+            <if test="showhrmedaltitle != null">
+                and showHrMedalTitle = #{showhrmedaltitle}
+            </if>
+            <if test="hrisonline != null">
+                and hrIsOnline = #{hrisonline}
+            </if>
+            <if test="hrlabels != null and hrlabels != ''">
+                and hrLabels = #{hrlabels}
+            </if>
+            <if test="updatedatetime != null">
+                and updateDateTime = #{updatedatetime}
+            </if>
+            <if test="lon != null and lon != ''">
+                and lon = #{lon}
+            </if>
+            <if test="lat != null and lat != ''">
+                and lat = #{lat}
+            </if>
+            <if test="iscommunicate != null">
+                and isCommunicate = #{iscommunicate}
+            </if>
+            <if test="isfromxyx != null">
+                and isFromXyx = #{isfromxyx}
+            </if>
+            <if test="isintern != null">
+                and isIntern = #{isintern}
+            </if>
+            <if test="ismodelemployer != null">
+                and isModelEmployer = #{ismodelemployer}
+            </if>
+            <if test="isquickfeedback != null">
+                and isQuickFeedback = #{isquickfeedback}
+            </if>
+            <if test="ispromotion != null">
+                and isPromotion = #{ispromotion}
+            </if>
+            <if test="isapply != null">
+                and isApply = #{isapply}
+            </if>
+            <if test="isexpire != null">
+                and isExpire = #{isexpire}
+            </if>
+            <if test="jobhref != null and jobhref != ''">
+                and jobHref = #{jobhref}
+            </if>
+            <if test="companyhref != null and companyhref != ''">
+                and companyHref = #{companyhref}
+            </if>
+            <if test="allowchatonline != null">
+                and allowChatOnline = #{allowchatonline}
+            </if>
+            <if test="ctmid != null">
+                and ctmId = #{ctmid}
+            </if>
+            <if test="term != null and term != ''">
+                and term = #{term}
+            </if>
+            <if test="termstr != null and termstr != ''">
+                and termStr = #{termstr}
+            </if>
+            <if test="landmarkid != null and landmarkid != ''">
+                and landmarkId = #{landmarkid}
+            </if>
+            <if test="landmarkstring != null and landmarkstring != ''">
+                and landmarkString = #{landmarkstring}
+            </if>
+            <if test="retrievername != null and retrievername != ''">
+                and retrieverName = #{retrievername}
+            </if>
+            <if test="exrinfo02 != null and exrinfo02 != ''">
+                and exrInfo02 = #{exrinfo02}
+            </if>
+            <if test="hrinfotype != null">
+                and hrInfoType = #{hrinfotype}
+            </if>
+            <if test="jobscheme != null and jobscheme != ''">
+                and jobScheme = #{jobscheme}
+            </if>
+            <if test="coid != null and coid != ''">
+                and coId = #{coid}
+            </if>
+        </where>
+    </select>
+    <select id="getEcharts6" resultType="com.example.chart.domain.vo.ChartVo$Echarts6">
+        select distinct degreeString as name, COUNT(*) as value
+        from details
+        group by degreeString;
+    </select>
+    <select id="getEcharts4" resultType="com.example.chart.domain.vo.ChartVo$Echarts4">
+        select distinct c.city_name as name, count(*) as value
+        from details as d
+                 join cities_code c on d.jobAreaCode = c.city_code
+        group by c.city_name
+        ORDER BY 2 DESC
+        LIMIT 10;
+    </select>
+    <resultMap id="echarts5" type="com.example.chart.domain.vo.ChartVo$Echarts5">
+        <result property="name" column="name"/>
+        <result property="value" column="value"/>
+        <collection property="work" ofType="list" column="{name=name}" select="findWorkParticles"/>
+    </resultMap>
+    <select id="getEcharts5" resultMap="echarts5">
+        select distinct workYearString as name, count(*) as value
+        from details
+        limit 1;
+    </select>
+    <select id="findWorkParticles" resultType="com.example.chart.domain.vo.ChartVo$Echarts5">
+        select distinct d.workYearString as name, count(*) as value
+        from details as d
+        group by d.workYearString
+        order by 2;
+    </select>
+    <select id="getJobUpdateTime" resultType="java.lang.String">
+        select distinct DATE_FORMAT(updateDateTime, '%Y-%m')
+        from details
+        order by 1
+        limit 3;
+    </select>
+    <select id="selectTop3" resultMap="DetailsMap">
+        select distinct *
+        from details
+        where DATE_FORMAT(updateDateTime, '%Y-%m') in (
+        <foreach collection="timeList" item="time" separator=",">
+            #{time}
+        </foreach>
+        )
+        order by updateDateTime;
+    </select>
+    <select id="selectEchart2" resultType="java.util.Map">
+        SELECT DATE_FORMAT(STR_TO_DATE(updateDateTime, '%Y-%m-%d %H:%i:%s'), '%Y-%m') AS month_year,
+               JSON_ARRAYAGG(JSON_OBJECT(
+                       'jobId', jobId,
+                       'jobType', jobType,
+                       'jobName', jobName,
+                       'jobTags', jobTags,
+                       'jobNumString', jobNumString,
+                       'workAreaCode', workAreaCode,
+                       'jobAreaCode', jobAreaCode,
+                       'jobAreaString', jobAreaString,
+                       'hrefAreaPinYin', hrefAreaPinYin,
+                       'jobAreaLevelDetail', jobAreaLevelDetail,
+                       'provideSalaryString', provideSalaryString,
+                       'issueDateString', issueDateString,
+                       'confirmDateString', confirmDateString,
+                       'workYear', workYear,
+                       'workYearString', workYearString,
+                       'degreeString', degreeString,
+                       'industryType1', industryType1,
+                       'industryType2', industryType2,
+                       'industryType1Str', industryType1Str,
+                       'industryType2Str', industryType2Str,
+                       'funcType1Code', funcType1Code,
+                       'funcType2Code', funcType2Code,
+                       'major1Str', major1Str,
+                       'major2Str', major2Str,
+                       'encCoId', encCoId,
+                       'companyName', companyName,
+                       'fullCompanyName', fullCompanyName,
+                       'companyLogo', companyLogo,
+                       'companyTypeString', companyTypeString,
+                       'companySizeString', companySizeString,
+                       'companySizeCode', companySizeCode,
+                       'hrUid', hrUid,
+                       'hrName', hrName,
+                       'smallHrLogoUrl', smallHrLogoUrl,
+                       'hrPosition', hrPosition,
+                       'hrActiveStatusGreen', hrActiveStatusGreen,
+                       'hrMedalTitle', hrMedalTitle,
+                       'hrMedalLevel', hrMedalLevel,
+                       'showHrMedalTitle', showHrMedalTitle,
+                       'hrIsOnline', hrIsOnline,
+                       'hrLabels', hrLabels,
+                       'updateDateTime', updateDateTime,
+                       'lon', lon,
+                       'lat', lat,
+                       'isCommunicate', isCommunicate,
+                       'isFromXyx', isFromXyx,
+                       'isIntern', isIntern,
+                       'isModelEmployer', isModelEmployer,
+                       'isQuickFeedback', isQuickFeedback,
+                       'isPromotion', isPromotion,
+                       'isApply', isApply,
+                       'isExpire', isExpire,
+                       'jobHref', jobHref,
+                       'companyHref', companyHref,
+                       'allowChatOnline', allowChatOnline,
+                       'ctmId', ctmId,
+                       'term', term,
+                       'termStr', termStr,
+                       'landmarkId', landmarkId,
+                       'landmarkString', landmarkString,
+                       'retrieverName', retrieverName,
+                       'exrInfo02', exrInfo02,
+                       'hrInfoType', hrInfoType,
+                       'jobScheme', jobScheme,
+                       'coId', coId
+                   ))                                                                 AS details_list
+        FROM details
+        WHERE MONTH(STR_TO_DATE(updateDateTime, '%Y-%m-%d %H:%i:%s')) IN (3, 6, 9, 12)
+          AND YEAR(STR_TO_DATE(updateDateTime, '%Y-%m-%d %H:%i:%s')) BETWEEN YEAR(NOW()) - 2 AND YEAR(NOW())
+        GROUP BY month_year
+        ORDER BY month_year DESC;
+    </select>
+    <select id="selectAllTableDto" resultType="com.example.chart.domain.vo.ChartVo$TableDto">
+        select jobName             as jobname,
+               jobAreaString       as jobareastring,
+               provideSalaryString as providesalarystring,
+               workYearString      as workyearstring,
+               degreeString        as degreestring,
+               companyName         as companyname,
+               companyTypeString   as companytypestring,
+               companySizeString   as companysizestring,
+               hrName              as hrname,
+               hrIsOnline          as hrisonline,
+               hrLabels            as hrlabels
+        from details;
+    </select>
+
+
+</mapper>
+
+
