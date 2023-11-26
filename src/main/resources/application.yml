@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: chart
+  devtools:
+    restart:
+      enabled: true
+      additional-paths:
+        - src/main/java
+        - src/main/resources
+    livereload:
+      enabled: true
+  thymeleaf:
+    cache: false
+  datasource:
+    url: jdbc:mysql:///51job
+    username: root
+    password: 74521CBy
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  main:
+    allow-circular-references: true
+mybatis-plus:
+  configuration:
+    cache-enabled: true
+    map-underscore-to-camel-case: true
+    call-setters-on-nulls: false
+  global-config:
+    db-config:
+      id-type: auto
+  type-aliases-package: "com.example.chart.domain"
+page:
+  pageSize: 4
+  current: 1
