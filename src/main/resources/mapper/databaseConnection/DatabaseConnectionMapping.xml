@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.db.dao.DatabaseConnectionDao">
+    
+    <resultMap type="com.example.db.domain.pojo.DatabaseConnection" id="DatabaseConnectionMap">
+        <result property="id" column="id" jdbcType="INTEGER"/>
+        <result property="url" column="url" jdbcType="VARCHAR"/>
+        <result property="username" column="username" jdbcType="VARCHAR"/>
+        <result property="password" column="password" jdbcType="VARCHAR"/>
+        <result property="driver" column="driver" jdbcType="VARCHAR"/>
+        <result property="key" column="key" jdbcType="VARCHAR"/>
+    </resultMap>
+    
+    <!-- 批量插入 -->
+    
+    <insert id="insertBatch" keyProperty="id" useGeneratedKeys="true">
+        insert into 51job.database_connection(url, username, password, driver, `key`)
+        values
+        <foreach collection="entities" item="entity" separator=",">
+            (#{entity.url}, #{entity.username}, #{entity.password}, #{entity.driver}, #{entity.key})
+        </foreach>
+    </insert>
+    
+    <!--查询指定行数据-->
+    <select id="selectDatabaseConnectionList" resultMap="DatabaseConnectionMap">
+        select
+        id, url, username, password, driver, `key`
+        from database_connection
+        <where>
+            <if test="id != null">
+                and id = #{id}
+            </if>
+            <if test="url != null and url != ''">
+                and url = #{url}
+            </if>
+            <if test="username != null and username != ''">
+                and username = #{username}
+            </if>
+            <if test="password != null and password != ''">
+                and password = #{password}
+            </if>
+            <if test="driver != null and driver != ''">
+                and driver = #{driver}
+            </if>
+            <if test="key != null and key != ''">
+                and key = #{key}
+            </if>
+        </where>
+    </select>
+    <select id="fromTestDb" resultType="java.lang.String">
+        select username
+        from test.users;
+    </select>
+
+</mapper>
+
+

@@ -12,10 +12,18 @@ spring:
   thymeleaf:
     cache: false
   datasource:
-    url: jdbc:mysql:///51job
-    username: root
-    password: password
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    #    url: jdbc:mysql:///51job
+    #    username: root
+    #    password: 74521CBy
+    #    driver-class-name: com.mysql.cj.jdbc.Driver
+    mysql:
+      url: jdbc:mysql:///51job
+      username: root
+      password: 74521CBy
+      driver: com.mysql.cj.jdbc.Driver
+    sqlite:
+      url: jdbc:sqlite:51job
+      driver-class-name: org.sqlite.JDBC
   main:
     allow-circular-references: true
 mybatis-plus:

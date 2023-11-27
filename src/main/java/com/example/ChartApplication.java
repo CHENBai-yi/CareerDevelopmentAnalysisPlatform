@@ -3,11 +3,20 @@ package com.example;
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
 import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerInterceptor;
-import com.github.pagehelper.PageInterceptor;
+import com.example.config.dynamicDb.MyDataSourceList;
+import org.apache.ibatis.datasource.pooled.PooledDataSource;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration;
+import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Primary;
+import org.sqlite.javax.SQLiteConnectionPoolDataSource;
+
+import javax.sql.DataSource;
+import java.util.HashMap;
 
 /**
  * Author:XY
@@ -16,8 +25,10 @@ import org.springframework.context.annotation.Bean;
  *
  * @author BaiYiChen
  */
-@SpringBootApplication(exclude = {SecurityAutoConfiguration.class})
+@SpringBootApplication(exclude = {SecurityAutoConfiguration.class, DataSourceAutoConfiguration.class})
+
 public class ChartApplication {
+
     public static void main(String[] args) {
 
         SpringApplication.run(ChartApplication.class, args);
@@ -31,5 +42,27 @@ public class ChartApplication {
         interceptor.addInnerInterceptor(new PaginationInnerInterceptor(DbType.MYSQL));
         return interceptor;
     }
+
+    @Bean
+    @ConfigurationProperties(prefix = "spring.datasource.mysql")
+    public PooledDataSource mySql() {
+        return new PooledDataSource();
+    }
+
+    @Bean
+    @ConfigurationProperties(prefix = "spring.datasource.sqlite")
+    public SQLiteConnectionPoolDataSource sqlite() {
+        return new SQLiteConnectionPoolDataSource();
+    }
+
+    @Bean
+    @Primary
+    public MyDataSourceList myDataSourceList(@Qualifier("mySql") DataSource mysql, @Qualifier("sqlite") DataSource sqlite) {
+        final HashMap<Object, Object> dataSourceMap = new HashMap<>();
+        dataSourceMap.put("mysql", mysql);
+        dataSourceMap.put("sqlite", sqlite);
+        return new MyDataSourceList(mysql, dataSourceMap);
+    }
+
 
 }

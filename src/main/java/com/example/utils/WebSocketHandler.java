@@ -1,6 +1,7 @@
 package com.example.utils;
 
 import com.example.chart.service.DetailsService;
+import com.example.config.dynamicDb.annotation.DBUSE;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -42,6 +43,7 @@ public class WebSocketHandler extends TextWebSocketHandler implements AsyncMetho
 
     @Async
     @Scheduled(cron = "*/2 * * * * ?")
+    @DBUSE
     @Override
     public void sendData() {
         Optional.ofNullable(session)

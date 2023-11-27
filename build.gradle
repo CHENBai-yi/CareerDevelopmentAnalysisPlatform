@@ -46,11 +46,15 @@ dependencies {
     implementation 'jakarta.servlet.jsp:jakarta.servlet.jsp-api:3.1.1'
     implementation 'io.github.bovane:ruoyi-common:3.8.0'
     // https://mvnrepository.com/artifact/org.aspectj/aspectjweaver
-    runtimeOnly 'org.aspectj:aspectjweaver:1.9.20.1'
+    implementation 'org.aspectj:aspectjweaver:1.9.20.1'
     // https://mvnrepository.com/artifact/org.mapstruct/mapstruct
     implementation 'org.mapstruct:mapstruct:1.5.5.Final'
     // https://mvnrepository.com/artifact/org.mapstruct/mapstruct-processor
     annotationProcessor 'org.mapstruct:mapstruct-processor:1.5.5.Final'
+    // https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc
+    implementation 'org.xerial:sqlite-jdbc:3.44.0.0'
+    // https://mvnrepository.com/artifact/com.alibaba/druid
+    implementation 'com.alibaba:druid:1.2.20'
 
 
 }
