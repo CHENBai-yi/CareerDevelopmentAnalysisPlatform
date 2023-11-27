@@ -39,6 +39,8 @@ public class DynamicAspect {
             return pjp.proceed(pjp.getArgs());
         } catch (Throwable e) {
             log.error(e.getMessage());
+        } finally {
+            DbThreadLocalContextHolder.poll();
         }
         return pjp.getTarget();
     }
