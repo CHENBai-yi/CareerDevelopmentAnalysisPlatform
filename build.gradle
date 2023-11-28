@@ -55,6 +55,7 @@ dependencies {
     implementation 'org.xerial:sqlite-jdbc:3.44.0.0'
     // https://mvnrepository.com/artifact/com.alibaba/druid
     implementation 'com.alibaba:druid:1.2.20'
+    implementation 'cn.licoy:encrypt-body-spring-boot-starter:1.2.3'
 
 
 }

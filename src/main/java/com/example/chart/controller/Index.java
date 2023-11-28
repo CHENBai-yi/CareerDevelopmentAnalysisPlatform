@@ -1,5 +1,6 @@
 package com.example.chart.controller;
 
+import cn.licoy.encryptbody.annotation.encrypt.DESEncryptBody;
 import com.example.config.dynamicDb.annotation.DBUSE;
 import com.example.db.dao.DatabaseConnectionDao;
 import lombok.RequiredArgsConstructor;
@@ -24,12 +25,14 @@ public class Index {
 
     @DBUSE("test")
     @GetMapping("/2/{a}")
+    @DESEncryptBody
     @ResponseBody
     public ResponseEntity<Object> i(@PathVariable("a") String s) {
         final List<String> strings = connectionDao.fromTestDb();
         final HashMap<String, Object> stringObjectHashMap = new HashMap<>();
         stringObjectHashMap.put("msg", "查询至test数据库的user表");
         stringObjectHashMap.put("data", strings);
+        stringObjectHashMap.put("ext", PACKAGE_CONST.AL);
         return ResponseEntity.ok(stringObjectHashMap);
     }
 }

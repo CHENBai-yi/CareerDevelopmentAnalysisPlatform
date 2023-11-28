@@ -33,9 +33,11 @@ public class DynamicAspect {
     public Object aroundAdvice(final ProceedingJoinPoint pjp) {
         try {
             final Method method = ((MethodSignature) pjp.getSignature()).getMethod();
-            final String value = method.getDeclaredAnnotation(DBUSE.class).value();
-            DbThreadLocalContextHolder.setDbUse(value);
-            // log.info(method.getName() + "方法：切换到{}数据库", value);
+            if (method.isAnnotationPresent(DBUSE.class)) {
+                final String value = method.getDeclaredAnnotation(DBUSE.class).value();
+                DbThreadLocalContextHolder.setDbUse(value);
+                // log.info(method.getName() + "方法：切换到{}数据库", value);
+            }
             return pjp.proceed(pjp.getArgs());
         } catch (Throwable e) {
             log.error(e.getMessage());

@@ -38,3 +38,7 @@ mybatis-plus:
 page:
   pageSize: 4
   current: 1
+encrypt:
+  body:
+    aesKey: abcd123456
+    desKey: abcd123456

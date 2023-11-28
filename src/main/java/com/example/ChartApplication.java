@@ -1,5 +1,6 @@
 package com.example;
 
+import cn.licoy.encryptbody.annotation.EnableEncryptBody;
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
 import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerInterceptor;
@@ -26,7 +27,7 @@ import java.util.HashMap;
  * @author BaiYiChen
  */
 @SpringBootApplication(exclude = {SecurityAutoConfiguration.class, DataSourceAutoConfiguration.class})
-
+@EnableEncryptBody
 public class ChartApplication {
 
     public static void main(String[] args) {
